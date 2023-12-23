@@ -22,7 +22,7 @@
     <java classname="supportGUI.DiamRace"
           classpath="${build}/:jars/TME2_supportGUI.jar" fork="true">
     	  <arg value="-nbPoints"/>
-    	  <arg value="50"/>
+    	  <arg value="256"/>
     </java>
   </target>
 
